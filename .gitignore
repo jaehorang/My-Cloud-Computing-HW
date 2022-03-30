@@ -1,0 +1,13 @@
+*.pyc
+*~
+__pycache__
+
+# myvenv
+bin
+lib
+include
+pyvenv.cfg
+
+db.sqlite3
+/static
+.DS_Store
